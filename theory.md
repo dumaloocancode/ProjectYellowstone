@@ -26,6 +26,8 @@ the <Slot /> component acts as a placeholder for the content of the current rout
 
 matlab, the code you've written in the route
 
+similar to children props in react
+
 ## Tabs in Expo
 
 pre-defined way to have tabs, can use directly

@@ -24,7 +24,6 @@ function HomeScreen(){
     )
 }
 
-
 function Request(){
     return(
         <View style={styles.container}>
